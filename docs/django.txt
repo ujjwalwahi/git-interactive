@@ -1,0 +1,1 @@
+In settings.py update: 'DIRS': [os.path.join(BASE_DIR, 'templates')],

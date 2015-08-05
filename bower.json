@@ -1,0 +1,22 @@
+{
+  "name": "Git tutorial",
+  "version": "0.1.0",
+  "authors": [
+    "Ujjwal Wahi <w.ujjwal@gmail.com>"
+  ],
+  "description": "Git interactive tutorial",
+  "keywords": [
+    "git",
+    "tutorial",
+    "interactive"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "assets/bower_components",
+    "test",
+    "tests"
+  ]
+}
